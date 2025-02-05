@@ -7,7 +7,7 @@ exercicios em python basico
 
 print ('Olá Mundo')
 
-#2-Digite seu nome e faça aparecer>E um prazer te conher_____.
+#2-Digite seu nome e faça aparecer>E um prazer te conhecer_____.
 
 nome=input("digite seu nome")
 print('é um prazer te conhecer,{}'.fomat(nome))
