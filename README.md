@@ -1,4 +1,4 @@
-# Exerc-cios-em-Python
+# Exercicios-em-Python
 exercicios em python basico
 
 #Exercicio em Python
